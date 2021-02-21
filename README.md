@@ -1,2 +1,3 @@
-# cdn
-cointool-cdn
+# CoinTool-cdn
+
+[CoinTool.App](https://www.cointool.app)
