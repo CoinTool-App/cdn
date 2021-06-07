@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-773eed5c"],{ef3cc:function(e,r,n){"use strict";n.r(r);n("37de"),n("1e34");var t,u,c={created:function(){var e=this.$route,r=e.params,n=e.query,t=r.path;this.$router.replace({path:"/"+t,query:n})},render:function(e){return e()}},a=c,o=n("5d22"),p=Object(o["a"])(a,t,u,!1,null,null,null);r["default"]=p.exports}}]);
