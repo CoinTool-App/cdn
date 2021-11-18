@@ -6,6 +6,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="A pure front-end avatar generator." />
     <title>CoinTool</title>
+    
+
+    <style>
+      
+    </style>
 
     <style>
       body {
@@ -77,19 +82,69 @@
         font-weight: bold;
         font-size: 1rem;
       }
+
+      .app-loading{
+        width: 100vw;
+        height: 100vh;
+        /* background-image: linear-gradient(90deg, #29323c 0%, #485563 100%); */
+        background: rgba(43, 49, 60, 1);
+        position: fixed;
+        top:0;
+        left:0;
+        z-index: 9999;
+        display: -webkit-box;
+        display: flex;
+        justify-content: center;
+        -webkit-box-align: center;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+      }
+      .app-loading img{
+        width: 140px;
+      }
+      .app-loading p{
+        font-size: 30px;
+        margin: 20px 0;
+        color: #30B08F;
+        font-weight: bold;
+      }
+      .lds-ellipsis{display:inline-block;position:relative;width:80px;height:80px;}
+      .lds-ellipsis div{position:absolute;top:33px;width:13px;height:13px;border-radius:50%;background:#fff;animation-timing-function:cubic-bezier(0,1,1,0);}
+      .lds-ellipsis div:nth-child(1){left:8px;animation:lds-ellipsis1 0.6s infinite;}
+      .lds-ellipsis div:nth-child(2){left:8px;animation:lds-ellipsis2 0.6s infinite;}
+      .lds-ellipsis div:nth-child(3){left:32px;animation:lds-ellipsis2 0.6s infinite;}
+      .lds-ellipsis div:nth-child(4){left:56px;animation:lds-ellipsis3 0.6s infinite;}
+      @keyframes lds-ellipsis1{
+        0%{transform:scale(0);}
+        100%{transform:scale(1);}
+      }
+      @keyframes lds-ellipsis3{
+        0%{transform:scale(1);}
+        100%{transform:scale(0);}
+      }
+      @keyframes lds-ellipsis2{
+        0%{transform:translate(0,0);}
+        100%{transform:translate(24px,0);}
+      }
+      
     </style>
-    <script type="module" crossorigin src="https://cdn.jsdelivr.net/gh/CoinTool-App/cdn/iframe/avatar/assets/index.7e68a6b5.js"></script>
+    <script type="module" crossorigin src="https://cdn.jsdelivr.net/gh/CoinTool-App/cdn/iframe/avatar/assets/index.f5d2cff0.js"></script>
     <link rel="modulepreload" href="https://cdn.jsdelivr.net/gh/CoinTool-App/cdn/iframe/avatar/assets/vendor.45b0d8f6.js">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/CoinTool-App/cdn/iframe/avatar/assets/index.5c0dedf6.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/CoinTool-App/cdn/iframe/avatar/assets/index.8167f087.css">
   </head>
 
   <body>
     <div id="app" v-cloak>
-      <div class="placeholder">
-        <div class="logo"></div>
-        <div class="text">Coming soon...</div>
+      <div class="app-loading" id="app-loading">
+        <img src="https://cdn.jsdelivr.net/gh/c0deCn/wiki@master/logo.png" alt="logo" />
+        <p>CoinTool.App</p>
+        <div class="lds-ellipsis"><div></div><div></div><div></div><div></div></div>
       </div>
     </div>
     
   </body>
 </html>
+
