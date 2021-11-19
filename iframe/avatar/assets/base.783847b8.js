@@ -7,7 +7,7 @@ var n=`<?xml version="1.0" encoding="UTF-8"?>
         <path d="M46.5128458,4.2387451 C47.0179771,7.99205229 37.1652579,12.7825359 24.4838034,14.9423268 C11.8200727,17.0941699 1.13610236,15.7986928 0.629198653,12.0414118 C0.120522559,8.2900915 9.97501414,3.49762092 22.6511515,1.34180392 C35.3237441,-0.810039216 46.0023973,0.485437908 46.5128458,4.2387451" id="path-5"></path>
         <path d="M124,117.5 C109.6,97.5 98.333,48.834 97,29.5 L28.5,0 L0,117.5 L124,117.5 Z" id="path-7"></path>
     </defs>
-    <g id="\u9875\u9762-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g transform="translate(0, 0)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="\u7F16\u7EC4-2" transform="translate(3.000000, 1.000000)">
             <g id="base(2)" transform="translate(29.000000, 113.000000)">
                 <path d="M124,188.5 C109.6,168.5 98.333,129.834 97,110.5 L28.5,81 L0,188.5 L124,188.5 Z" id="\u8DEF\u5F84" stroke="#885034" stroke-width="4" fill="#975F3B" fill-rule="nonzero"></path>
