@@ -1,0 +1,14 @@
+{
+  "background_color": "purple",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "246×218",
+      "type": "image/png"
+    }
+  ],
+  "name": "CoinTool.App",
+  "short_name": "CoinTool",
+  "start_url": "."
+}
