@@ -1,0 +1,15 @@
+{
+  "background_color": "purple",
+  "description": "cointool.app It's an online digital currency toolbox",
+  "display": "minimal-ui",
+  "icons": [
+    {
+      "src": "./logo.png",
+      "sizes": "246×218",
+      "type": "image/png"
+    }
+  ],
+  "name": "CoinTool.App",
+  "short_name": "CoinTool",
+  "start_url": "."
+}
