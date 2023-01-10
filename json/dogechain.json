@@ -1,0 +1,140 @@
+{
+  "name": "KibbleSwap Default",
+  "logoURI": "https://raw.githubusercontent.com/defigenie/kibbleswap-tokenlists/main/logos/0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101/logo.png",
+  "keywords": ["doge", "defi", "kibbleswap", "woof woof", "tasty"],
+  "version": {
+    "major": 1,
+    "minor": 5,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 2000,
+      "address": "0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101",
+      "decimals": 18,
+      "name": "Wrapped WDoge",
+      "symbol": "WWDOGE",
+      "logoURI": "https://raw.githubusercontent.com/defigenie/kibbleswap-tokenlists/main/logos/0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101/logo.png"
+    },
+    {
+      "chainId": 2000,
+      "address": "0x7B4328c127B85369D9f82ca0503B000D09CF9180",
+      "decimals": 18,
+      "name": "Dogechain Token",
+      "symbol": "DC",
+      "logoURI": "https://raw.githubusercontent.com/defigenie/kibbleswap-tokenlists/main/logos/0x7B4328c127B85369D9f82ca0503B000D09CF9180/logo.png"
+    },
+    {
+      "chainId": 2000,
+      "address": "0xbA2fa659f475f69EeEFa245523DBa9C14BbA7163",
+      "decimals": 18,
+      "name": "CHEWY",
+      "symbol": "CHEWY",
+      "logoURI": "https://raw.githubusercontent.com/defigenie/kibbleswap-tokenlists/main/logos/0xbA2fa659f475f69EeEFa245523DBa9C14BbA7163/logo.png"
+    },
+    {
+      "chainId": 2000,
+      "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+      "decimals": 18,
+      "name": "Ethereum (Multichain)",
+      "symbol": "ETH.m",
+      "logoURI": "https://raw.githubusercontent.com/defigenie/kibbleswap-tokenlists/main/logos/0xB44a9B6905aF7c801311e8F4E76932ee959c663C/logo.png"
+    },
+    {
+      "chainId": 2000,
+      "address": "0x9F4614E4Ea4A0D7c4B1F946057eC030beE416cbB",
+      "decimals": 18,
+      "name": "Ethereum (Synapse)",
+      "symbol": "ETH.s",
+      "logoURI": "https://raw.githubusercontent.com/defigenie/kibbleswap-tokenlists/main/logos/0x9F4614E4Ea4A0D7c4B1F946057eC030beE416cbB/logo.png"
+    },
+    {
+      "chainId": 2000,
+      "address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
+      "decimals": 6,
+      "name": "USD Coin (Multichain)",
+      "symbol": "USDC.m",
+      "logoURI": "https://raw.githubusercontent.com/defigenie/kibbleswap-tokenlists/main/logos/0x765277EebeCA2e31912C9946eAe1021199B39C61/logo.png"
+    },
+    {
+      "chainId": 2000,
+      "address": "0x85C2D3bEBffD83025910985389aB8aD655aBC946",
+      "decimals": 6,
+      "name": "USD Coin (Synapse)",
+      "symbol": "USDC.s",
+      "logoURI": "https://raw.githubusercontent.com/defigenie/kibbleswap-tokenlists/main/logos/0x85C2D3bEBffD83025910985389aB8aD655aBC946/logo.png"
+    },
+    {
+      "chainId": 2000,
+      "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+      "decimals": 6,
+      "name": "Tether USD (Multichain)",
+      "symbol": "USDT.m",
+      "logoURI": "https://raw.githubusercontent.com/defigenie/kibbleswap-tokenlists/main/logos/0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D/logo.png"
+    },
+    {
+      "chainId": 2000,
+      "address": "0x7f8e71DD5A7e445725F0EF94c7F01806299e877A",
+      "decimals": 6,
+      "name": "Tether USD (Synapse)",
+      "symbol": "USDT.s",
+      "logoURI": "https://raw.githubusercontent.com/defigenie/kibbleswap-tokenlists/main/logos/0x7f8e71DD5A7e445725F0EF94c7F01806299e877A/logo.png"
+    },
+    {
+      "chainId": 2000,
+      "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
+      "decimals": 8,
+      "name": "Wrapped Bitcoin (Multichain)",
+      "symbol": "WBTC.m",
+      "logoURI": "https://raw.githubusercontent.com/defigenie/kibbleswap-tokenlists/main/logos/0xfA9343C3897324496A05fC75abeD6bAC29f8A40f/logo.png"
+    },
+    {
+      "chainId": 2000,
+      "address": "0xD0c6179c43C00221915f1a61f8eC06A5Aa32F9EC",
+      "decimals": 8,
+      "name": "Wrapped Bitcoin (Synapse)",
+      "symbol": "WBTC.s",
+      "logoURI": "https://raw.githubusercontent.com/defigenie/kibbleswap-tokenlists/main/logos/0xD0c6179c43C00221915f1a61f8eC06A5Aa32F9EC/logo.png"
+    },
+    {
+      "chainId": 2000,
+      "address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
+      "decimals": 18,
+      "name": "Dai Stablecoin (Multichain)",
+      "symbol": "DAI.m",
+      "logoURI": "https://raw.githubusercontent.com/defigenie/kibbleswap-tokenlists/main/logos/0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C/logo.png"
+    },
+    {
+      "chainId": 2000,
+      "address": "0xB3306f03595490e5cC3a1b1704a5a158D3436ffC",
+      "decimals": 18,
+      "name": "Dai Stablecoin (Synapse)",
+      "symbol": "DAI.s",
+      "logoURI": "https://raw.githubusercontent.com/defigenie/kibbleswap-tokenlists/main/logos/0xB3306f03595490e5cC3a1b1704a5a158D3436ffC/logo.png"
+    },
+    {
+      "chainId": 2000,
+      "address": "0x1fC532187B4848d2F9c564531b776A4F8e11201d",
+      "decimals": 18,
+      "name": "Binance Coin (Synapse)",
+      "symbol": "BNB.s",
+      "logoURI": "https://raw.githubusercontent.com/defigenie/kibbleswap-tokenlists/main/logos/0x1fC532187B4848d2F9c564531b776A4F8e11201d/logo.png"
+    },
+    {
+      "chainId": 2000,
+      "address": "0x1e1026ba0810e6391b0F86AFa8A9305c12713B66",
+      "decimals": 18,
+      "name": "Kibble",
+      "symbol": "KIB",
+      "logoURI": "https://raw.githubusercontent.com/defigenie/kibbleswap-tokenlists/main/logos/0x1e1026ba0810e6391b0F86AFa8A9305c12713B66/logo.png"
+    },
+    {
+      "chainId": 2000,
+      "address": "0x8ffBD442F246964A0d2E87C9b2551095bdA6EEb3",
+      "decimals": 9,
+      "name": "Staked Kibble",
+      "symbol": "sKIB",
+      "logoURI": "https://raw.githubusercontent.com/defigenie/kibbleswap-tokenlists/main/logos/0x8ffBD442F246964A0d2E87C9b2551095bdA6EEb3/logo.png"
+    }
+  ]
+}
