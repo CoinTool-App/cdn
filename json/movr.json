@@ -1,0 +1,911 @@
+{
+    "name": "Solarbeam Community Token List",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "tags": {
+        "type": {
+            "name": "official",
+            "description": "official token list"
+        }
+    },
+    "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x6bD193Ee6D2104F14F94E2cA6efefae561A4334B/logo.png",
+    "keywords": ["solarbeam", "default", "cointool"],
+    "tokens": [
+        {
+            "name": "Wrapped MOVR",
+            "address": "0x98878B06940aE243284CA214f92Bb71a2b032B8A",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x98878B06940aE243284CA214f92Bb71a2b032B8A/logo.png",
+            "symbol": "WMOVR",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "RiverBoat",
+            "address": "0xbD90A6125a84E5C512129D622a75CDDE176aDE5E",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0xbD90A6125a84E5C512129D622a75CDDE176aDE5E/logo.png",
+            "symbol": "RIB",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "USDC Coin",
+            "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D/logo.png",
+            "symbol": "USDC",
+            "decimals": 6,
+            "chainId": 1285
+        },
+        {
+            "name": "Dai Stablecoin",
+            "address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844/logo.png",
+            "symbol": "DAI",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "Binance-Peg BUSD Token",
+            "address": "0x5D9ab5522c64E1F6ef5e3627ECCc093f56167818",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x5D9ab5522c64E1F6ef5e3627ECCc093f56167818/logo.png",
+            "symbol": "BUSD",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "Ethereum",
+            "address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C/logo.png",
+            "symbol": "ETH",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "Binance Coin",
+            "address": "0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c/logo.png",
+            "symbol": "BNB",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "Wrapped BTC",
+            "address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8/logo.png",
+            "symbol": "WBTC",
+            "decimals": 8,
+            "chainId": 1285
+        },
+        {
+            "name": "Tether USD",
+            "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0xB44a9B6905aF7c801311e8F4E76932ee959c663C/logo.png",
+            "symbol": "USDT",
+            "decimals": 6,
+            "chainId": 1285
+        },
+        {
+            "name": "Relay Token",
+            "address": "0xAd7F1844696652ddA7959a49063BfFccafafEfe7",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0xAd7F1844696652ddA7959a49063BfFccafafEfe7/logo.png",
+            "symbol": "RELAY",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "Avalanche",
+            "address": "0x14a0243C333A5b238143068dC3A7323Ba4C30ECB",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x14a0243C333A5b238143068dC3A7323Ba4C30ECB/logo.png",
+            "symbol": "AVAX",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "Matic",
+            "address": "0x682F81e57EAa716504090C3ECBa8595fB54561D8",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x682F81e57EAa716504090C3ECBa8595fB54561D8/logo.png",
+            "symbol": "MATIC",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "RelayChain MAI",
+            "address": "0x7f5a79576620C046a293F54FFCdbd8f2468174F1",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x7f5a79576620C046a293F54FFCdbd8f2468174F1/logo.png",
+            "symbol": "relayMAI",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "Fantom Token",
+            "address": "0xaD12daB5959f30b9fF3c2d6709f53C335dC39908",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0xaD12daB5959f30b9fF3c2d6709f53C335dC39908/logo.png",
+            "symbol": "FTM",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "Solarbeam Token",
+            "address": "0x6bD193Ee6D2104F14F94E2cA6efefae561A4334B",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x6bD193Ee6D2104F14F94E2cA6efefae561A4334B/logo.png",
+            "symbol": "SOLAR",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "Magic Internet Money",
+            "address": "0x0caE51e1032e8461f4806e26332c030E34De3aDb",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x0caE51e1032e8461f4806e26332c030E34De3aDb/logo.png",
+            "symbol": "MIM",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "PolkaPet World",
+            "address": "0x1e0F2A75Be02c025Bd84177765F89200c04337Da",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x1e0F2A75Be02c025Bd84177765F89200c04337Da/logo.png",
+            "symbol": "PETS",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "Anyswap Frax",
+            "address": "0x965f84D915a9eFa2dD81b653e3AE736555d945f4",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x965f84D915a9eFa2dD81b653e3AE736555d945f4/logo.png",
+            "symbol": "anyFRAX",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "Frax",
+            "address": "0x1A93B23281CC1CDE4C4741353F3064709A16197d",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x1A93B23281CC1CDE4C4741353F3064709A16197d/logo.png",
+            "symbol": "FRAX",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "Alpha Rome",
+            "address": "0x3D2D044E8C6dAd46b4F7896418d3d4DFaAD902bE",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x3D2D044E8C6dAd46b4F7896418d3d4DFaAD902bE/logo.png",
+            "symbol": "aROME",
+            "decimals": 9,
+            "chainId": 1285
+        },
+        {
+            "name": "IMX@moonriver",
+            "address": "0x900f1Ec5819FA087d368877cD03B265Bf1802667",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x900f1Ec5819FA087d368877cD03B265Bf1802667/logo.png",
+            "symbol": "IMX.m",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "Rome DAO",
+            "address": "0x4a436073552044d5f2f49b176853ad3ad473d9d6",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x4a436073552044d5f2f49b176853ad3ad473d9d6/logo.png",
+            "symbol": "ROME",
+            "decimals": 9,
+            "chainId": 1285
+        },
+        {
+            "name": "MAI Stablecoin",
+            "address": "0xFb2019DfD635a03cfFF624D210AEe6AF2B00fC2C",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0xFb2019DfD635a03cfFF624D210AEe6AF2B00fC2C/logo.png",
+            "symbol": "MAI",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "Moonscape",
+            "address": "0x5c22ba65F65ADfFADFc0947382f2E7C286A0Fe45",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x5c22ba65F65ADfFADFc0947382f2E7C286A0Fe45/logo.png",
+            "symbol": "MSCP",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "Crowns",
+            "address": "0x6fc9651f45B262AE6338a701D563Ab118B1eC0Ce",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x6fc9651f45B262AE6338a701D563Ab118B1eC0Ce/logo.png",
+            "symbol": "CWS",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "xcKSM",
+            "address": "0xFfFFfFff1FcaCBd218EDc0EbA20Fc2308C778080",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0xFfFFfFff1FcaCBd218EDc0EbA20Fc2308C778080/logo.png",
+            "symbol": "xcKSM",
+            "decimals": 12,
+            "chainId": 1285
+        },
+        {
+            "name": "Solarbeam Token",
+            "address": "0x744eB7c95eCe05B849e84c45A3574e943EeF665B",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x744eB7c95eCe05B849e84c45A3574e943EeF665B/logo.png",
+            "symbol": "SOLAR",
+            "decimals": 18,
+            "chainId": 1287
+        },
+        {
+            "name": "Wrapped DEV",
+            "address": "0x1436aE0dF0A8663F18c0Ec51d7e2E46591730715",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x1436aE0dF0A8663F18c0Ec51d7e2E46591730715/logo.png",
+            "symbol": "WDEV",
+            "decimals": 18,
+            "chainId": 1287
+        },
+        {
+            "name": "USDC Coin",
+            "address": "0x4b5ad0a6bC440F0Fd8a445359d6BB2d921734cdE",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x4b5ad0a6bC440F0Fd8a445359d6BB2d921734cdE/logo.png",
+            "symbol": "USDC",
+            "decimals": 18,
+            "chainId": 1287
+        },
+        {
+            "name": "xcUNIT",
+            "address": "0xFfFFfFff1FcaCBd218EDc0EbA20Fc2308C778080",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0xFfFFfFff1FcaCBd218EDc0EbA20Fc2308C778080/logo.png",
+            "symbol": "xcUNIT",
+            "decimals": 12,
+            "chainId": 1287
+        },
+        {
+            "name": "DAI",
+            "address": "0x0Ec449159B39e2df3154A0D01cdfB8C1111bDBE8",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x0Ec449159B39e2df3154A0D01cdfB8C1111bDBE8/logo.png",
+            "symbol": "DAI",
+            "decimals": 18,
+            "chainId": 1287
+        },
+        {
+            "name": "BUSD",
+            "address": "0xC4f73f347699f4dd24Cdc353f891940094B88925",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0xC4f73f347699f4dd24Cdc353f891940094B88925/logo.png",
+            "symbol": "BUSD",
+            "decimals": 18,
+            "chainId": 1287
+        },
+        {
+            "name": "USDT",
+            "address": "0xBb5fa19E007086f3b9875387960FB1E80E4EF892",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0xBb5fa19E007086f3b9875387960FB1E80E4EF892/logo.png",
+            "symbol": "USDT",
+            "decimals": 6,
+            "chainId": 1287
+        },
+        {
+            "name": "FRAX",
+            "address": "0x1734454a8C0bffc3e51bb3d1A22F402e5Cd5d787",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x1734454a8C0bffc3e51bb3d1A22F402e5Cd5d787/logo.png",
+            "symbol": "FRAX",
+            "decimals": 18,
+            "chainId": 1287
+        },
+        {
+            "name": "xcMockRMRK Coin",
+            "address": "0xFFffffFfd2aaD7f60626608Fa4a5d34768F7892d",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0xFFffffFfd2aaD7f60626608Fa4a5d34768F7892d/logo.png",
+            "symbol": "xcMockRMRK",
+            "decimals": 10,
+            "chainId": 1287
+        },
+        {
+            "name": "Mars",
+            "address": "0x1FC56B105c4F0A1a8038c2b429932B122f6B631f",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x1FC56B105c4F0A1a8038c2b429932B122f6B631f/logo.png",
+            "symbol": "MARS",
+            "decimals": 18,
+            "chainId": 1287
+        },
+        {
+            "name": "Alpha Wood",
+            "address": "0x8cE2BDc6e0319cea87337d027382f09B715C9601",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x8cE2BDc6e0319cea87337d027382f09B715C9601/logo.png",
+            "symbol": "aWOOD",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "Alpha Stone",
+            "address": "0x77709C42d43F2e53c24b8fA623A207abDC89857c",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x77709C42d43F2e53c24b8fA623A207abDC89857c/logo.png",
+            "symbol": "aSTONE",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "Alpha Iron",
+            "address": "0x9E403aA2DFEF9BA2a2b82286D13864A64D90BF36",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x9E403aA2DFEF9BA2a2b82286D13864A64D90BF36/logo.png",
+            "symbol": "aIRON",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "Alpha Gold",
+            "address": "0x088Fe6e0e1CaCA1eE45E8DE96AbE79e4e139F4Ab",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x088Fe6e0e1CaCA1eE45E8DE96AbE79e4e139F4Ab/logo.png",
+            "symbol": "aGOLD",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "Governance OHM",
+            "address": "0x3bF21Ce864e58731B6f28D68d5928BcBEb0Ad172",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x3bF21Ce864e58731B6f28D68d5928BcBEb0Ad172/logo.png",
+            "symbol": "gOHM",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "Alpha Experience",
+            "address": "0x138a90f246Abb23A157DA7a1D9dB19dCf1691362",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x138a90f246Abb23A157DA7a1D9dB19dCf1691362/logo.png",
+            "symbol": "aEXP",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "xcRMRK",
+            "address": "0xffffffFF893264794d9d57E1E0E21E0042aF5A0A",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0xffffffFF893264794d9d57E1E0E21E0042aF5A0A/logo.png",
+            "symbol": "xcRMRK",
+            "decimals": 10,
+            "chainId": 1285
+        },
+        {
+            "name": "Wrapped Ether",
+            "address": "0x30D2a9F5FDf90ACe8c17952cbb4eE48a55D916A7",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x30D2a9F5FDf90ACe8c17952cbb4eE48a55D916A7/logo.png",
+            "symbol": "WETH",
+            "decimals": 18,
+            "chainId": 1284,
+            "extensions": {
+                "provider": "Nomad"
+            }
+        },
+        {
+            "name": "Wrapped BTC",
+            "address": "0x1DC78Acda13a8BC4408B207c9E48CDBc096D95e0",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x1DC78Acda13a8BC4408B207c9E48CDBc096D95e0/logo.png",
+            "symbol": "WBTC",
+            "decimals": 8,
+            "chainId": 1284,
+            "extensions": {
+                "provider": "Nomad"
+            }
+        },
+        {
+            "name": "Dai Stablecoin",
+            "address": "0xc234A67a4F840E61adE794be47de455361b52413",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0xc234A67a4F840E61adE794be47de455361b52413/logo.png",
+            "symbol": "DAI",
+            "decimals": 18,
+            "chainId": 1284,
+            "extensions": {
+                "provider": "Nomad"
+            }
+        },
+        {
+            "name": "USD Coin",
+            "address": "0x8f552a71EFE5eeFc207Bf75485b356A0b3f01eC9",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x8f552a71EFE5eeFc207Bf75485b356A0b3f01eC9/logo.png",
+            "symbol": "USDC",
+            "decimals": 6,
+            "chainId": 1284,
+            "extensions": {
+                "provider": "Nomad"
+            }
+        },
+        {
+            "name": "Tether USD",
+            "address": "0x8e70cD5B4Ff3f62659049e74b6649c6603A0E594",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x8e70cD5B4Ff3f62659049e74b6649c6603A0E594/logo.png",
+            "symbol": "USDT",
+            "decimals": 6,
+            "chainId": 1284,
+            "extensions": {
+                "provider": "Nomad"
+            }
+        },
+        {
+            "name": "Wrapped GLMR",
+            "address": "0xAcc15dC74880C9944775448304B263D191c6077F",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0xAcc15dC74880C9944775448304B263D191c6077F/logo.png",
+            "symbol": "WGLMR",
+            "decimals": 18,
+            "chainId": 1284
+        },
+        {
+            "name": "Binance-Peg BUSD Token",
+            "address": "0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F/logo.png",
+            "symbol": "multiBUSD",
+            "decimals": 18,
+            "chainId": 1284,
+            "extensions": {
+                "provider": "Multichain"
+            }
+        },
+        {
+            "name": "Vested SolarBeam Token",
+            "address": "0x0DB6729C03C85B0708166cA92801BcB5CAc781fC",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x0DB6729C03C85B0708166cA92801BcB5CAc781fC/logo.png",
+            "symbol": "veSOLAR",
+            "decimals": 18,
+            "chainId": 1284,
+            "extensions": {
+                "provider": "Synapse"
+            }
+        },
+        {
+            "name": "Vested Flare Token",
+            "address": "0x08c98AD2d4856BEC0a0EaF18C2a06E7201613F90",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x08c98AD2d4856BEC0a0EaF18C2a06E7201613F90/logo.png",
+            "symbol": "veFLARE",
+            "decimals": 18,
+            "chainId": 1284
+        },
+        {
+            "name": "Flare Token",
+            "address": "0xE3e43888fa7803cDC7BEA478aB327cF1A0dc11a7",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0xE3e43888fa7803cDC7BEA478aB327cF1A0dc11a7/logo.png",
+            "symbol": "FLARE",
+            "decimals": 18,
+            "chainId": 1284
+        },
+        {
+            "name": "Moonriver",
+            "address": "0x1d4C2a246311bB9f827F4C768e277FF5787B7D7E",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x1d4C2a246311bB9f827F4C768e277FF5787B7D7E/logo.png",
+            "symbol": "MOVR",
+            "decimals": 18,
+            "chainId": 1284,
+            "extensions": {
+                "provider": "Synapse"
+            }
+        },   
+        {
+            "name": "Binance",
+            "address": "0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055/logo.png",
+            "symbol": "BNB",
+            "decimals": 18,
+            "chainId": 1284,
+            "extensions": {
+                "provider": "Multichain"
+            }
+        },
+        {
+            "name": "Moonscape",
+            "address": "0xB60590313975f0d98821B6Cab5Ea2a6d9641D7B6",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0xB60590313975f0d98821B6Cab5Ea2a6d9641D7B6/logo.png",
+            "symbol": "MSCP",
+            "decimals": 18,
+            "chainId": 1284,
+            "extensions": {
+                "provider": "Meter.io"
+            }
+        },
+        {
+            "name": "RiverBoat",
+            "address": "0x4bDE98731149093a12579D71338fd3741fe6E5Ce",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x4bDE98731149093a12579D71338fd3741fe6E5Ce/logo.png",
+            "symbol": "RIB",
+            "decimals": 18,
+            "chainId": 1284,
+            "extensions": {
+                "provider": "Meter.io"
+            }
+        },
+        {
+            "name": "Axelar Wrapped UST",
+            "address": "0x085416975fe14C2A731a97eC38B9bF8135231F62",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x085416975fe14C2A731a97eC38B9bF8135231F62/logo.png",
+            "symbol": "UST",
+            "decimals": 6,
+            "chainId": 1284,
+            "extensions": {
+                "provider": "Axelar"
+            }
+        },
+        {
+            "name": "USD Coin",
+            "address": "0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b/logo.png",
+            "symbol": "multiUSDC",
+            "decimals": 6,
+            "chainId": 1284,
+            "extensions": {
+                "provider": "Multichain"
+            }
+        },
+        {
+            "name": "Tether USD",
+            "address": "0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73/logo.png",
+            "symbol": "multiUSDT",
+            "decimals": 6,
+            "chainId": 1284,
+            "extensions": {
+                "provider": "Multichain"
+            }
+        },
+        {
+            "name": "Axelar Wrapped LUNA",
+            "address": "0x31DAB3430f3081dfF3Ccd80F17AD98583437B213",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x31DAB3430f3081dfF3Ccd80F17AD98583437B213/logo.png",
+            "symbol": "LUNA",
+            "decimals": 6,
+            "chainId": 1284,
+            "extensions": {
+                "provider": "Axelar"
+            }
+        },
+        {
+            "name": "MFAM",
+            "address": "0xBb8d88bcD9749636BC4D2bE22aaC4Bb3B01A58F1",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0xBb8d88bcD9749636BC4D2bE22aaC4Bb3B01A58F1/logo.png",
+            "symbol": "MFAM",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "Liquid staked KSM",
+            "address": "0xFfc7780C34B450d917d557E728f033033CB4fA8C",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0xFfc7780C34B450d917d557E728f033033CB4fA8C/logo.png",
+            "symbol": "stKSM",
+            "decimals": 12,
+            "chainId": 1285
+        },
+        {
+            "name": "Lido DAO Token",
+            "address": "0x6Ccf12B480A99C54b23647c995f4525D544A7E72",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x6Ccf12B480A99C54b23647c995f4525D544A7E72/logo.png",
+            "symbol": "LDO",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "MARA Token",
+            "address": "0x0d2faA2064129ecBfAccD45be33DEA3bCD3F8863",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x0d2faA2064129ecBfAccD45be33DEA3bCD3F8863/logo.png",
+            "symbol": "MARA",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "Kintsugi Wrapped BTC",
+            "address": "0xFFFfFfFfF6E528AD57184579beeE00c5d5e646F0",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0xFFFfFfFfF6E528AD57184579beeE00c5d5e646F0/logo.png",
+            "symbol": "xcKBTC",
+            "decimals": 8,
+            "chainId": 1285
+        },
+        {
+            "name": "Kintsugi Native Token",
+            "address": "0xfffFFFFF83F4f317d3cbF6EC6250AeC3697b3fF2",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0xfffFFFFF83F4f317d3cbF6EC6250AeC3697b3fF2/logo.png",
+            "symbol": "xcKINT",
+            "decimals": 12,
+            "chainId": 1285
+        },
+        {
+            "name": "Moonwell ETH",
+            "address": "0xc555120Ea2df5FC2EdfaE8E34A0928A580C73028",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0xc555120Ea2df5FC2EdfaE8E34A0928A580C73028/logo.png",
+            "symbol": "mETH",
+            "decimals": 8,
+            "chainId": 1287
+        },
+        {
+            "name": "USDC",
+            "address": "0x3d4e3573EBFeaCfADd62E41dA15f0EF1D04c0c10",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x3d4e3573EBFeaCfADd62E41dA15f0EF1D04c0c10/logo.png",
+            "symbol": "USDC",
+            "decimals": 18,
+            "chainId": 1287
+        },
+        {
+            "name": "USDT",
+            "address": "0xd00Fc5D0bEcED73e96F7BAe1C5743A080D102828",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0xd00Fc5D0bEcED73e96F7BAe1C5743A080D102828/logo.png",
+            "symbol": "USDT",
+            "decimals": 18,
+            "chainId": 1287
+        },
+        {
+            "name": "FRAX",
+            "address": "0x3937BFF63960380df7d40eaB4ae21181f58C304C",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x3937BFF63960380df7d40eaB4ae21181f58C304C/logo.png",
+            "symbol": "FRAX",
+            "decimals": 18,
+            "chainId": 1287
+        },
+        {
+            "name": "BTC",
+            "address": "0xff3d51EB7dD6779EE490bC1cC5572DCCe830D44F",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0xff3d51EB7dD6779EE490bC1cC5572DCCe830D44F/logo.png",
+            "symbol": "BTC",
+            "decimals": 8,
+            "chainId": 1287
+        },
+        {
+            "name": "Calamari Native Token",
+            "address": "0xFFffFffFA083189f870640b141ae1E882c2b5bad",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0xFFffFffFA083189f870640b141ae1E882c2b5bad/logo.png",
+            "symbol": "xcKMA",
+            "decimals": 12,
+            "chainId": 1285
+        },
+        {
+            "name": "Wrapped liquid staked KSM",
+            "address": "0x3bfd113ad0329a7994a681236323fb16E16790e3",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x3bfd113ad0329a7994a681236323fb16E16790e3/logo.png",
+            "symbol": "wstKSM",
+            "decimals":  12,
+            "chainId": 1285
+        },
+        {
+            "name": "MFAM",
+            "address": "0x6efCf8fB404AC6DE593cE461877A634d067C942E",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x6efCf8fB404AC6DE593cE461877A634d067C942E/logo.png",
+            "symbol": "MFAM",
+            "decimals":  18,
+            "chainId": 1287
+        },
+        {
+            "name": "Bifrost Native Token",
+            "address": "0xFFfFFfFFF075423be54811EcB478e911F22dDe7D",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0xFFfFFfFFF075423be54811EcB478e911F22dDe7D/logo.png",
+            "symbol": "xcBNC",
+            "decimals": 12,
+            "chainId": 1285
+        },
+        {
+            "name": "Karura Native Token",
+            "address": "0xFfFFFFfF08220AD2E6e157f26eD8bD22A336A0A5",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0xFfFFFFfF08220AD2E6e157f26eD8bD22A336A0A5/logo.png",
+            "symbol": "xcKAR",
+            "decimals": 12,
+            "chainId": 1285
+        },
+        {
+            "name": "Phala Token",
+            "address": "0xffFfFFff8E6b63d9e447B6d4C45BDA8AF9dc9603",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0xffFfFFff8E6b63d9e447B6d4C45BDA8AF9dc9603/logo.png",
+            "symbol": "xcPHA",
+            "decimals": 12,
+            "chainId": 1285
+        },
+        {
+            "name": "Shiden Native Token",
+            "address": "0xFFFfffFF0Ca324C842330521525E7De111F38972",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0xFFFfffFF0Ca324C842330521525E7De111F38972/logo.png",
+            "symbol": "xcSDN",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "Impossible Finance IDIA",
+            "address": "0x2d28AA28fA1E5e6bF121CF688309Bf3faAAe3C70",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x2d28AA28fA1E5e6bF121CF688309Bf3faAAe3C70/logo.png",
+            "symbol": "IDIA",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "MoonBeans",
+            "address": "0xC2392DD3e3fED2c8Ed9f7f0bDf6026fcd1348453",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0xC2392DD3e3fED2c8Ed9f7f0bDf6026fcd1348453/logo.png",
+            "symbol": "BEANS",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "Laika Protocol",
+            "address": "0x65e66a61D0a8F1e686C2D6083ad611a10D84D97A",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x65e66a61D0a8F1e686C2D6083ad611a10D84D97A/logo.png",
+            "symbol": "LAIKA",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "MoonKafe",
+            "address": "0x52f04C806EB82930F40D410259b7AF8E18d3BDc9",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x52f04C806EB82930F40D410259b7AF8E18d3BDc9/logo.png",
+            "symbol": "KAFE",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "1SWAP",
+            "address": "0x3516a7588C2E6FFA66C9507eF51853eb85d76e5B",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x3516a7588C2E6FFA66C9507eF51853eb85d76e5B/logo.png",
+            "symbol": "1SWAP",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "Neku Finance",
+            "address": "0x3Bf0880fd26E49c46d1A1e69ADb268889B4be840",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x3Bf0880fd26E49c46d1A1e69ADb268889B4be840/logo.png",
+            "symbol": "NEKU",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "RivrDoge",
+            "address": "0x5D4360f1Be94bD6f182F09cFE5EF9832e65EB1ac",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x5D4360f1Be94bD6f182F09cFE5EF9832e65EB1ac/logo.png",
+            "symbol": "RivrDoge",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "Million",
+            "address": "0x95bf7E307BC1ab0BA38ae10fc27084bC36FcD605",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x95bf7E307BC1ab0BA38ae10fc27084bC36FcD605/logo.png",
+            "symbol": "MM",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "DOT@moonriver",
+            "address": "0x15B9CA9659F5dfF2b7d35a98dd0790a3CBb3D445",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x15B9CA9659F5dfF2b7d35a98dd0790a3CBb3D445/logo.png",
+            "symbol": "DOT.m",
+            "decimals": 10,
+            "chainId": 1285
+        },
+        {
+            "name": "RivrKitty",
+            "address": "0xC2b0435276139731d82Ae2Fa8928c9b9De0761c1",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0xC2b0435276139731d82Ae2Fa8928c9b9De0761c1/logo.png",
+            "symbol": "RKITTY",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "RivrSaitama",
+            "address": "0x343E8F5A79C324105dFC1F5644f9d8C31Cf75e5E",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x343E8F5A79C324105dFC1F5644f9d8C31Cf75e5E/logo.png",
+            "symbol": "RIVRSAITAMA",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "Diverse Capital",
+            "address": "0xeE0FddB3201f6F167f9108A86f882331f31B33A9",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0xeE0FddB3201f6F167f9108A86f882331f31B33A9/logo.png",
+            "symbol": "DCC",
+            "decimals": 9,
+            "chainId": 1285
+        },
+        {
+            "name": "Dot Finance",
+            "address": "0x30A54FbFF50f86C3a289fa70e677051a86677be4",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x30A54FbFF50f86C3a289fa70e677051a86677be4/logo.png",
+            "symbol": "PINK",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "SpiderDAO",
+            "address": "0xb2c22A9fb4FC02eb9D1d337655Ce079a04a526C7",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0xb2c22A9fb4FC02eb9D1d337655Ce079a04a526C7/logo.png",
+            "symbol": "SPDR",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "Treasure Map",
+            "address": "0xF37626E2284742305858052615E94B380B23B3b7",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0xF37626E2284742305858052615E94B380B23B3b7/logo.png",
+            "symbol": "TMAP",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "Hundred Finance",
+            "address": "0x10010078a54396F62c96dF8532dc2B4847d47ED3",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x10010078a54396F62c96dF8532dc2B4847d47ED3/logo.png",
+            "symbol": "HND",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "Polkamarkets",
+            "address": "0x8b29344f368b5FA35595325903fE0eAab70C8E1F",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x8b29344f368b5FA35595325903fE0eAab70C8E1F/logo.png",
+            "symbol": "POLK",
+            "decimals": 18,
+            "chainId": 1284
+        },
+        {
+            "name": "MoonSeeds",
+            "address": "0x688F5f72C0e9bCDe98e28E49306fEf7EB39ff44F",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x688F5f72C0e9bCDe98e28E49306fEf7EB39ff44F/logo.png",
+            "symbol": "SEEDS",
+            "decimals": 18,
+            "chainId": 1287
+        },
+        {
+            "name": "MoonBeans",
+            "address": "0x65b09ef8c5A096C5Fd3A80f1F7369E56eB932412",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x65b09ef8c5A096C5Fd3A80f1F7369E56eB932412/logo.png",
+            "symbol": "BEANS",
+            "decimals": 18,
+            "chainId": 1284
+        },
+        {
+            "name": "MoonSeeds",
+            "address": "0xD5059D18A77b3fdFA524eF3Dfc03FeF63165C908",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0xD5059D18A77b3fdFA524eF3Dfc03FeF63165C908/logo.png",
+            "symbol": "SEEDS",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "CHAOS",
+            "address": "0xf4c6850B6e3288E81Be542909b76865a0BdF9585",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0xf4c6850B6e3288E81Be542909b76865a0BdF9585/logo.png",
+            "symbol": "CHAOS",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "cUSD",
+            "address": "0xFFF7502097F2C16A11582483acf754A55af8CF04",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0xFFF7502097F2C16A11582483acf754A55af8CF04/logo.png",
+            "symbol": "cUSD",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "DPSDoubloon",
+            "address": "0xE413a631E8a9a10958D9b7c64157449eAe7C2064",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0xE413a631E8a9a10958D9b7c64157449eAe7C2064/logo.png",
+            "symbol": "DOUBLOON",
+            "decimals": 18 ,
+            "chainId": 1285
+        },
+        {
+            "name": "DPS Rum",
+            "address": "0xA73288bb8a196Ed8B2F2f8DD17cd765c6FD2d8C2",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0xA73288bb8a196Ed8B2F2f8DD17cd765c6FD2d8C2/logo.png",
+            "symbol": "RUM",
+            "decimals": 18 ,
+            "chainId": 1285
+        },
+        {
+            "name": "BEPRO Network",
+            "address": "0x4EdF8E0778967012D46968ceadb75436d0426f88",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x4EdF8E0778967012D46968ceadb75436d0426f88/logo.png",
+            "symbol": "BEPRO",
+            "decimals": 18 ,
+            "chainId": 1284
+        },
+        {
+            "name": "BEPRO Network",
+            "address": "0xCb4a593ce512D78162C58384f0b2Fd6e802c2c47",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0xCb4a593ce512D78162C58384f0b2Fd6e802c2c47/logo.png",
+            "symbol": "BEPRO",
+            "decimals": 18 ,
+            "chainId": 1285
+        },
+        {
+            "name": "Robonomics Native Token",
+            "address": "0xFffFFffF51470Dca3dbe535bD2880a9CcDBc6Bd9",
+            "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0xFffFFffF51470Dca3dbe535bD2880a9CcDBc6Bd9/logo.png",
+            "symbol": "xcXRT",
+            "decimals": 9,
+            "chainId": 1285
+        }
+    ]
+}
