@@ -1,0 +1,260 @@
+{
+    "error_code":"",
+    "data":{
+        "tokens":[
+            {
+                "id":2,
+                "name":"ONUS-peg BUSD Token",
+                "symbol":"BUSD",
+                "address":"0xdfB5E8a4AC08E46258A12AbE737bba5D8c452508",
+                "type":2,
+                "chainId": 1975,
+                "decimals":18,
+                "logoURI":"https://miaswap-img-s3.s3.ap-northeast-1.amazonaws.com/busd.png",
+                "currency_config_id":1
+            },
+            {
+                "id":7,
+                "name":"ONUS-peg USDT Token",
+                "symbol":"USDT",
+                "address":"0xff276c6bca1F66Fd54a8915e830735D6ab0C7B09",
+                "type":2,
+                "chainId": 1975,
+                "decimals":18,
+                "logoURI":"https://miaswap-img-s3.s3.ap-northeast-1.amazonaws.com/usdt.png",
+                "currency_config_id":2
+            },
+            {
+                "id":9,
+                "name":"Wrapped ONUS",
+                "symbol":"WONUS",
+                "address":"0x4c761E48d1E735af551cc38ABCBDCe1d7FaaC6E4",
+                "type":2,
+                "chainId": 1975,
+                "decimals":18,
+                "logoURI":"https://miaswap-img-s3.s3.ap-northeast-1.amazonaws.com/onus.png",
+                "currency_config_id":4
+            },
+            {
+                "id":11,
+                "name":"ONUS-peg VNDC Token",
+                "symbol":"VNDC",
+                "address":"0xC1D3A18C32c42D5c033C2d4bfc151dB8fd2c9D81",
+                "type":2,
+                "chainId": 1975,
+                "decimals":0,
+                "logoURI":"https://miaswap-img-s3.s3.ap-northeast-1.amazonaws.com/VNDC.png",
+                "currency_config_id":5
+            },
+            {
+                "id":10,
+                "name":"USDO Token",
+                "symbol":"USDO",
+                "address":"0x3D513abc13f53A1E18Ae59A7B5B0930E55733C87",
+                "type":2,
+                "chainId": 1975,
+                "decimals":18,
+                "logoURI":"https://miaswap-img-s3.s3.ap-northeast-1.amazonaws.com/usdo.png",
+                "currency_config_id":6
+            },
+            {
+                "id":14,
+                "name":"ONUS-peg Bitcoin Token",
+                "symbol":"BTC",
+                "address":"0x935765Ad27a1af00f73097c998A9fb721D2d7790",
+                "type":2,
+                "chainId": 1975,
+                "decimals":18,
+                "logoURI":"https://miaswap-img-s3.s3.ap-northeast-1.amazonaws.com/btc.png",
+                "currency_config_id":7
+            },
+            {
+                "id":15,
+                "name":"ONUS-peg Ethereum Token",
+                "symbol":"ETH",
+                "address":"0xB4373ebB073A4DcbA47e567d075a9583Fa3C763e",
+                "type":2,
+                "chainId": 1975,
+                "decimals":18,
+                "logoURI":"https://miaswap-img-s3.s3.ap-northeast-1.amazonaws.com/eth.png",
+                "currency_config_id":8
+            },
+            {
+                "id":16,
+                "name":"ONUS-peg BNB Token",
+                "symbol":"BNB",
+                "address":"0xbDCe8C50C1e6F6501c2af8232D2D76ec75cdA51D",
+                "type":2,
+                "chainId": 1975,
+                "decimals":18,
+                "logoURI":"https://miaswap-img-s3.s3.ap-northeast-1.amazonaws.com/bnb.png",
+                "currency_config_id":9
+            },
+            {
+                "id":17,
+                "name":"Nami Frame Futures",
+                "symbol":"NAO",
+                "address":"0x07430e1482574389Bc0E5d33CFB65280e881EE8c",
+                "type":2,
+                "chainId": 1975,
+                "decimals":18,
+                "logoURI":"https://miaswap-img-s3.s3.ap-northeast-1.amazonaws.com/NAO.png",
+                "currency_config_id":10
+            },
+            {
+                "id":18,
+                "name":"RICE",
+                "symbol":"RICE",
+                "address":"0xdF297316921b427c66D8a17A9ACd6ddb99C5Cea3",
+                "type":2,
+                "chainId": 1975,
+                "decimals":18,
+                "logoURI":"https://miaswap-img-s3.s3.ap-northeast-1.amazonaws.com/rice.png",
+                "currency_config_id":11
+            },
+            {
+                "id":19,
+                "name":"ONUS-peg Solana Token",
+                "symbol":"SOL",
+                "address":"0x5B07649AF6CdE6B0bF570318A757B2C19F8a8dF9",
+                "type":2,
+                "chainId": 1975,
+                "decimals":18,
+                "logoURI":"https://miaswap-img-s3.s3.ap-northeast-1.amazonaws.com/sol.png",
+                "currency_config_id":12
+            },
+            {
+                "id":20,
+                "name":"ONUS-peg MATIC Token",
+                "symbol":"MATIC",
+                "address":"0x38Bd5c5CaFcB9Ee28FCF3ECdfb44c1c5F2317239",
+                "type":2,
+                "chainId": 1975,
+                "decimals":18,
+                "logoURI":"https://miaswap-img-s3.s3.ap-northeast-1.amazonaws.com/matic.png",
+                "currency_config_id":13
+            },
+            {
+                "id":21,
+                "name":"ONUS-peg DOT Token",
+                "symbol":"DOT",
+                "address":"0xb726b570FbdC41Cad66F729b70c01A9dD6078987",
+                "type":2,
+                "chainId": 1975,
+                "decimals":18,
+                "logoURI":"https://miaswap-img-s3.s3.ap-northeast-1.amazonaws.com/dot.png",
+                "currency_config_id":14
+            },
+            {
+                "id":22,
+                "name":"ONUS-peg C98 Token",
+                "symbol":"C98",
+                "address":"0x57687774e165676b89180cd8e9AaC9F030401Ebf",
+                "type":2,
+                "chainId": 1975,
+                "decimals":18,
+                "logoURI":"https://miaswap-img-s3.s3.ap-northeast-1.amazonaws.com/C98.png",
+                "currency_config_id":15
+            },
+            {
+                "id":23,
+                "name":"ONUS-peg DOGE Token",
+                "symbol":"DOGE",
+                "address":"0x3EAAD4f7445e4Ff2524BBBf548614c2eC8470206",
+                "type":2,
+                "chainId": 1975,
+                "decimals":8,
+                "logoURI":"https://miaswap-img-s3.s3.ap-northeast-1.amazonaws.com/doge.png",
+                "currency_config_id":16
+            },
+            {
+                "id":24,
+                "name":"ONUS-peg TOMO Token",
+                "symbol":"TOMO",
+                "address":"0xaf3568Fa340e0740520a9ccaEaC281F3b67c5cFF",
+                "type":2,
+                "chainId": 1975,
+                "decimals":18,
+                "logoURI":"https://miaswap-img-s3.s3.ap-northeast-1.amazonaws.com/tomo.png",
+                "currency_config_id":17
+            },
+            {
+                "id":25,
+                "name":"ONUS-peg SHIBA Token",
+                "symbol":"SHIB",
+                "address":"0x02797e4E9b9E02BDd3d344173A4828Cdcbd020f8",
+                "type":2,
+                "chainId": 1975,
+                "decimals":18,
+                "logoURI":"https://miaswap-img-s3.s3.ap-northeast-1.amazonaws.com/shiba.png",
+                "currency_config_id":18
+            },
+            {
+                "id":26,
+                "name":"ONUS-peg NEAR Token",
+                "symbol":"NEAR",
+                "address":"0xf39F273e9252930F225331ebaFCfb19bd19c5390",
+                "type":2,
+                "chainId": 1975,
+                "decimals":18,
+                "logoURI":"https://miaswap-img-s3.s3.ap-northeast-1.amazonaws.com/near.png",
+                "currency_config_id":19
+            },
+            {
+                "id":27,
+                "name":"Athena Football Token",
+                "symbol":"ATH",
+                "address":"0x4B99Fa351143007a246616C4d0b538E62899CA11",
+                "type":2,
+                "chainId": 1975,
+                "decimals":18,
+                "logoURI":"https://miaswap-img-s3.s3.ap-northeast-1.amazonaws.com/ATH_athena_football.png",
+                "currency_config_id":20
+            },
+            {
+                "id":63,
+                "name":"World Cup International Token",
+                "symbol":"WCI",
+                "address":"0x7c63574650F35e0a5253E665Ba9C7c7ccf181b86",
+                "type":2,
+                "chainId": 1975,
+                "decimals":18,
+                "logoURI":"https://miaswap-img-s3.s3.ap-northeast-1.amazonaws.com/WCI.png",
+                "currency_config_id":21
+            },
+            {
+                "id":64,
+                "name":"Run Together Token",
+                "symbol":"RUN",
+                "address":"0x9e3d30d7808C8E64dB360Abf2f32B44eB03F55d4",
+                "type":2,
+                "chainId": 1975,
+                "decimals":18,
+                "logoURI":"https://miaswap-img-s3.s3.ap-northeast-1.amazonaws.com/run.png",
+                "currency_config_id":22
+            },
+            {
+                "id":65,
+                "name":"HeraSwap Token",
+                "symbol":"HERA",
+                "address":"0x992B7DEeed37FE38808afEc9E81d5B8Af7Bc2d27",
+                "type":2,
+                "chainId": 1975,
+                "decimals":18,
+                "logoURI":"https://miaswap-img-s3.s3.ap-northeast-1.amazonaws.com/hera.png",
+                "currency_config_id":23
+            },
+            {
+                "id":69,
+                "name":"PiBridge Token",
+                "symbol":"PiB",
+                "address":"0x17DA9C482d5025e77c4E5aB3071D947A0CF36bbD",
+                "type":2,
+                "chainId": 1975,
+                "decimals":18,
+                "logoURI":"https://miaswap-img-s3.s3.ap-northeast-1.amazonaws.com/pi.png",
+                "currency_config_id":24
+            }
+        ],
+    }
+}
