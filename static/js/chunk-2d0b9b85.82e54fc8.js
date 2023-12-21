@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b9b85"],{"33c2":function(n,e,t){"use strict";t.r(e);var u=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("router-view")},r=[],c="nftMultiSender",a={name:c,data:function(){return{}}},l=a,i=t("5d22"),o=Object(i["a"])(l,u,r,!1,null,null,null);e["default"]=o.exports}}]);
