@@ -12,3 +12,4 @@ website: [CoinTool.App](https://www.cointool.app)
 - Email: cointools@outlook.com 
 - Telegram: https://t.me/cointool 
 - Twitter: https://twitter.com/cointool 
+- Media Kit: https://cointool.app/media-kit 
