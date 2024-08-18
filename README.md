@@ -1,6 +1,6 @@
 # CoinTool
 
-cointool.app It's an online crypto toolbox
+cointool It's an online crypto toolbox
 
 website: [CoinTool - CT.App](https://www.ct.app)
 
@@ -13,4 +13,4 @@ website: [CoinTool - CT.App](https://www.ct.app)
 - Email: cointools@outlook.com 
 - Telegram: https://t.me/cointool 
 - Twitter: https://twitter.com/cointool 
-- Media Kit: https://cointool.app/media-kit 
+- Media Kit: https://ct.app/media-kit 
