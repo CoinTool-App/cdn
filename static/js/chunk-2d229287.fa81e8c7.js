@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d229287"],{dbf9:function(n,e,t){"use strict";t.r(e);var u=function(){var n=this,e=n._self._c;return e("router-view")},r=[],a="presaleList",s={name:a,data:function(){return{}}},c=s,i=t("2877"),l=Object(i["a"])(c,u,r,!1,null,null,null);e["default"]=l.exports}}]);
