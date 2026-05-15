@@ -1,6 +1,6 @@
 {
   "background_color": "purple",
-  "description": "cointool.app It's an online crypto toolbox",
+  "description": "ct.app It's an online crypto toolbox",
   "display": "minimal-ui",
   "orientation": "portrait",
   "icons": [
@@ -20,7 +20,7 @@
       "sizes": "128x128"
     }
   ],
-  "name": "CoinTool",
-  "short_name": "CoinTool",
+  "name": "CoinTool - CT.App",
+  "short_name": "CoinTool - CT.App",
   "start_url": "."
 }
