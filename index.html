@@ -2,16 +2,16 @@
         domain: [
           "cdn.jsdelivr.net/gh/CoinTool-App/cdn@main",
           "cdn.1b.tc",
-          // "localhost:5500"
+          "ct.app"
         ],
         maxRetryCount: 1,
-        onRetry: function (currentUrl) {
-          if (currentUrl.includes('localhost:5500')) {
-            return currentUrl.replace('https://', 'http://');
-          }
-          // 其他正常返回
-          return currentUrl;
-        }
+        // onRetry: function (currentUrl) {
+        //   if (currentUrl.includes('localhost:5500')) {
+        //     return currentUrl.replace('https://', 'http://');
+        //   }
+        //   // 其他正常返回
+        //   return currentUrl;
+        // }
       })</script><style>.app-loading{
         width: 100vw;
         height: 100vh;
